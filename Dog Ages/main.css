@@ -1,0 +1,34 @@
+body {
+    background-color: black;
+}
+
+h1 { 
+    color: aliceblue;
+    font-family: 'Architects Daughter', sans-serif;
+}
+
+p, h3 {
+    color: aliceblue;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+h2 {
+    font-family: 'Nanum Gothic', sans-serif;
+    color: midnightblue;
+}
+
+input, button {
+    font-family: 'Architects Daughter', sans-serif;
+}
+
+.standard {
+    padding: 3em;
+}
+
+.myChart {
+    background: aliceblue;
+}
+
+#dogMain {
+    background: url("images/doggo_lg.jpg") no-repeat center center/cover;
+}
